@@ -1,1 +1,1 @@
-# SECOND-HIGHEST-SALARY
+A SQL query to get the second highest salary
